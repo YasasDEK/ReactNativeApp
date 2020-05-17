@@ -1,0 +1,28 @@
+2020.05.15 20:51:03 INFO  started: Metals version 0.9.0 in workspace 'C:\Users\hp.DESKTOP-OU243N9\Desktop\reactnative\test'
+2020.05.15 20:51:05 INFO  time: initialize in 2.97s
+2020.05.15 20:51:14 WARN  no build tool detected in workspace 'C:\Users\hp.DESKTOP-OU243N9\Desktop\reactnative\test'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.15 23:32:05 INFO  started: Metals version 0.9.0 in workspace 'C:\Users\hp.DESKTOP-OU243N9\Desktop\reactnative\test'
+2020.05.15 23:32:12 INFO  time: initialize in 7.58s
+2020.05.15 23:32:45 WARN  no build tool detected in workspace 'C:\Users\hp.DESKTOP-OU243N9\Desktop\reactnative\test'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+May 15, 2020 11:35:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.05.15 23:44:49 INFO  shutting down Metals
+2020.05.16 00:16:32 INFO  started: Metals version 0.9.0 in workspace 'C:\Users\hp.DESKTOP-OU243N9\Desktop\reactnative\test'
+2020.05.16 00:16:35 INFO  time: initialize in 3s
+2020.05.16 00:16:40 WARN  no build tool detected in workspace 'C:\Users\hp.DESKTOP-OU243N9\Desktop\reactnative\test'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+May 16, 2020 1:10:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.05.16 01:11:03 INFO  shutting down Metals
+2020.05.16 01:27:13 INFO  started: Metals version 0.9.0 in workspace 'C:\Users\hp.DESKTOP-OU243N9\Desktop\reactnative\test'
+2020.05.16 01:27:15 INFO  time: initialize in 1.95s
+2020.05.16 01:27:26 WARN  no build tool detected in workspace 'C:\Users\hp.DESKTOP-OU243N9\Desktop\reactnative\test'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+May 16, 2020 1:41:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.05.16 01:44:25 INFO  shutting down Metals
+2020.05.16 03:10:59 INFO  started: Metals version 0.9.0 in workspace 'C:\Users\hp.DESKTOP-OU243N9\Desktop\reactnative\test'
+2020.05.16 03:11:00 INFO  time: initialize in 1.15s
+2020.05.16 03:11:02 WARN  no build tool detected in workspace 'C:\Users\hp.DESKTOP-OU243N9\Desktop\reactnative\test'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.17 03:49:05 INFO  started: Metals version 0.9.0 in workspace 'C:\Users\hp.DESKTOP-OU243N9\Desktop\reactnative\test'
+2020.05.17 03:49:07 INFO  time: initialize in 2.31s
+2020.05.17 03:49:19 WARN  no build tool detected in workspace 'C:\Users\hp.DESKTOP-OU243N9\Desktop\reactnative\test'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.17 04:02:33 INFO  shutting down Metals
